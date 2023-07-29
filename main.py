@@ -9,7 +9,7 @@ print("Bem vindo ao mundo de python!")
 
 
 #casting
-#conversão de vriavéis
+#conversão de variavéis
 #inteiro para string
 #flot para inteiro
 #etc
